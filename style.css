@@ -184,12 +184,11 @@ box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px
     margin: auto;
 }
 .hobbycaption{
-    display: flex;
-    justify-content: center;
-    padding-bottom: 50px;
+    text-align: center;
+    margin-bottom: 50px;
 }
 .hobby-item{
-    padding-left: 30px;
+    margin-left: 30px;
 }
 /* наша команда */
 .team{
@@ -197,14 +196,13 @@ box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px
     margin:auto
 }
 .teamcaption{
-    display: flex;
-    justify-content: center;
-    padding-bottom: 50px;
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 .team-item{
     /* width: calc( (100% - 15px *8) / 4); */
-    padding-left: 30px;
+    margin-left: 30px;
 }
 .phototeam{
     width: 270px;
